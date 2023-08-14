@@ -5,6 +5,8 @@
 #include "DIO_Interface.h"
 #include "DIO_Private.h"
 
+/* Status Options for Pins are {OUTPUT,INPULL,INFREE} */
+
 const DIO_PinStatus_type PinsStatusArray[TOTAL_PINS]=
 {
 	INFREE, //PINA0
