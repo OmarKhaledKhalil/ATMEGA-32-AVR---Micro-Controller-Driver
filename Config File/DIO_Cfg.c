@@ -37,7 +37,7 @@ const DIO_PinStatus_type PinsStatusArray[TOTAL_PINS]=
 	INPULL, //PIND1
 	INPULL, //PIND2
 	INPULL, //PIND3
-   INPULL, //PIND4
+        INPULL, //PIND4
 	INPULL, //PIND5
 	INPULL, //PIND6
 	INPULL  //PIND7
